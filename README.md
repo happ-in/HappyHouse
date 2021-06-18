@@ -30,6 +30,8 @@
 │  ├─front
 │  ├─back
 ```
+➡️ [Frontend 프로젝트](./front)<br>
+➡️ [Backend 프로젝트](./back)
 
 ### 🎥 DEMO
 
