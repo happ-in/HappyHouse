@@ -34,4 +34,4 @@
 
 ### 🎥 DEMO
 
-[![Demo](http://img.youtube.com/vi/BO1JOVImw8A/0.jpg)]([https://youtu.be/QYNwbZHmh8g?t=0s](https://youtu.be/BO1JOVImw8A)) 
+[![Demo](http://img.youtube.com/vi/BO1JOVImw8A/0.jpg)](https://youtu.be/BO1JOVImw8A)
